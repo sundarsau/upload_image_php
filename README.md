@@ -4,9 +4,9 @@ This custom application is developed in PHP to upload image along with inserting
 # How To Use
 
 1) Download the repository from https://github.com/sundarsau/upload_image_php
-2) Create a new folder (say, upload_image) under xampp/htdocs and extract all files in it 
+2) Create a new folder (say, upload_image) under xampp/htdocs and extract all the files in it 
 3) Create the table in "test" database in MySQL by running users.sql
-4) In Browser run localhost/upload_image
+4) In the browser run localhost/upload_image
 
 
 # License
