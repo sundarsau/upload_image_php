@@ -1,0 +1,33 @@
+body{
+    width: 50%;
+    margin: auto;
+}
+h1, h2{
+    text-align: center;
+}
+.image-preview{
+    background-image: url('../img/avatar.png');
+    width: 14%;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+.photo{
+    width: 18%;
+    height: 27px;
+    border-radius: 50%;
+}
+.modal-content{
+    width: 700px;
+}
+.modal-body img{
+    width: 100%;
+    height: 600px;
+}
+button{
+    width: 62px;
+    height: 33px;
+    padding: 1px!important;
+}
