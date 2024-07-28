@@ -1,5 +1,5 @@
 # Upload Image in PHP and MySQL
-This custom application is developed in PHP to upload image along with inserting a row in the database using a form. Users can enter their name and a photo of the user and submit the form. PHP application will process the data, upload the image to the server and insert a row in the database table. Also, user can delete the row along with the image after upload and can view the image in a Bootstrap modal.
+This custom application is developed in PHP to upload image along with inserting a row in the database using a form. Users can enter their name and a photo of the user and submit the form. PHP application will process the data, upload the image to the server and insert a row in the database table. Also, user can delete the row along with the image after upload and can view the image in a Bootstrap modal. For learning more in PHP web development please visit the website https://codehow2.com for many more PHP tutorials.
 
 # How To Use
 
